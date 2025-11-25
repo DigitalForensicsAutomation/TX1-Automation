@@ -1,6 +1,14 @@
 # TX1-Automation
 PowerShell Automation: robust script utilizing TX1
 
+TX1Orchestrator.psm1 — full module: session helpers, imaging control, transfer, verification, logging, service-install helpers (NSSM + scheduled task fallback).
+
+TX1Orchestrator.Launcher.ps1 — launcher script for NSSM / scheduled task.
+
+README.md — install & security notes.
+
+
+
 
 The script below provides:
 
